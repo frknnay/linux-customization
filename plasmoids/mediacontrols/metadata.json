@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "furkan-ay@outlook.com",
+                "Name": "Furkan"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Compact media controls with album art, seek bar, shuffle and repeat",
+        "Icon": "media-playback-start",
+        "Id": "com.furkan.mediacontrols",
+        "License": "GPL-2.0+",
+        "Name": "Media Controls",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

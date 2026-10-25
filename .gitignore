@@ -1,0 +1,6 @@
+*.plasmoid
+*.qmlc
+*.jsc
+.qmlls.ini
+.vscode/
+.idea/

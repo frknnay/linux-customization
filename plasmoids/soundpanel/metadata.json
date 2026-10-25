@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "furkan-ay@outlook.com",
+                "Name": "Furkan"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Sound control panel with per-app volume",
+        "Icon": "audio-volume-high",
+        "Id": "com.furkan.soundpanel",
+        "License": "GPL-2.0+",
+        "Name": "Sound Panel",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}
