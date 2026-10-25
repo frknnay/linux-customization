@@ -1,4 +1,4 @@
-# linux-customization
+# linux-tools
 
 My KDE Plasma 6 customizations.
 
